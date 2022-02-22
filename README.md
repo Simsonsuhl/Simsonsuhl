@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Simsonsuhl
 - 👀 I’m interested in computers, programming and building electronics
 - 🌱 I’m currently learning C++
-- 
 - 📫 My Discord is Simson_suhl#8188
 
 <!---
